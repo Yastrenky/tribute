@@ -1,0 +1,122 @@
+body{
+      background-color: #664c30;
+
+}
+div.container{
+      position: static;
+  box-shadow: 10px 10px 5px #888888;
+      border-radius: 9px;
+  height: 90%;
+  color: #333;
+  padding-top: 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #eee;
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 61px;
+  margin-right: 61px;
+}
+div.nameandimage{
+  text-shadow: 10px 15px 30px black;
+  margin-left: 0%;
+margin-right: 0%;
+  text-align: center;
+}
+h1.name{
+      color: #eee;
+
+    font-size: 55px;
+    text-align: center;
+
+  font-family: 'Arvo', serif;
+
+}
+h3{
+    font-family: 'Ranga', cursive;
+    font-size: 23px;
+    margin-left: 10%;
+}
+h3.redsox{
+    color: rgb(141, 71, 54);
+}
+img.picture1{
+  border-radius: 15px;
+    width: 96%;
+height: 431px;
+}
+h4{
+
+}
+p{
+  margin-top: 37px;
+  font-size: 20px;
+  font-family: 'Ranga', cursive;
+  margin-right: 10%;
+  margin-left: 10%;
+
+ text-align: center;
+}
+a{
+   text-decoration: none;
+}
+
+li{
+  margin-top: 25px;
+  margin-right: 36px;
+}
+
+}
+div.pagefot{
+  margin-right: 199px;
+  margin-left: 81px;
+  margin-top: -37px;
+}
+div.pagefott{
+
+  text-align: center;
+  margin-left: 10%;
+margin-right: 10%;
+
+}
+div.conintroduction{
+      background-color: #ebe6d3;
+  margin-left: 5%;
+margin-top: 5%;
+margin-right: 5%;
+  border-style: inset;
+    border-color: black;
+  border-radius: 10px;
+}
+.tittle{
+  margin-top: 10px;
+}
+.form-container{
+  padding: 15px;
+}
+@media (min-width: 992px){
+  .form-container{
+  display: flex;
+  }
+  div.form-message,.contact-form{
+    text-align: center;
+
+    width: 50%;
+  }
+}
+.contact-form input{
+  padding: 8px;
+  margin-top: 10px;
+  text-align: center;
+  display: block;
+
+}
+.contact-form textarea{
+height: 120px;
+width: 400%;
+margin-top: 5%
+
+
+}
+.contact-form button{
+  display: block;
+}
