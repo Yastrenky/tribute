@@ -120,3 +120,7 @@ margin-top: 5%
 .contact-form button{
   display: block;
 }
+.contact-form button.sent{
+  
+  background-color: #6F7;
+}
